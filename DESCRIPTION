@@ -1,7 +1,7 @@
 Package: CREAM
 Type: Package
 Title: Clustering of Genomic Regions Analysis Method
-Version: 1.0.0
+Version: 1.1.0
 Date: 2017-10-23
 Authors@R: c(
     person("Seyed Ali", "Madani Tonekaboni", , email = "ali.madanitonekaboni@mail.utoronto.ca", role = c("aut")),
@@ -31,11 +31,11 @@ biocViews: PeakDetection, FunctionalPrediction, BiomedicalInformatics,
 BugReports: https://github.com/bhklab/CREAM/issues
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2017-10-26 18:42:25 UTC; root
+Packaged: 2018-01-03 13:30:12 UTC; root
 Author: Seyed Ali Madani Tonekaboni [aut],
   Victor Kofia [aut],
   Mathieu Lupien [aut],
   Benjamin Haibe-Kains [aut, cre]
 Maintainer: Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>
 Repository: CRAN
-Date/Publication: 2017-10-27 08:19:18 UTC
+Date/Publication: 2018-01-05 16:05:50 UTC
