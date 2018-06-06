@@ -1,8 +1,8 @@
 Package: CREAM
 Type: Package
 Title: Clustering of Genomic Regions Analysis Method
-Version: 1.1.0
-Date: 2017-10-23
+Version: 1.1.1
+Date: 2018-05-30
 Authors@R: c(
     person("Seyed Ali", "Madani Tonekaboni", , email = "ali.madanitonekaboni@mail.utoronto.ca", role = c("aut")),
     person("Victor", "Kofia", , email = "victor.kofia@uhnresearch.ca", role = c("aut")),
@@ -19,7 +19,7 @@ Description: Provides a new method for identification of clusters of genomic
  within each CORE, 2) It identifies number of elements which should be clustered 
  as a CORE, 3) It calls COREs, 4) It filters the COREs with lowest order which 
  does not pass the threshold considered in the approach.
-License: Artistic-2.0
+License: GPL (>= 3)
 Imports: stats, utils
 Depends: R (>= 3.3)
 URL: https://github.com/bhklab/CREAM
@@ -31,11 +31,11 @@ biocViews: PeakDetection, FunctionalPrediction, BiomedicalInformatics,
 BugReports: https://github.com/bhklab/CREAM/issues
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2018-01-03 13:30:12 UTC; root
+Packaged: 2018-06-04 13:45:12 UTC; root
 Author: Seyed Ali Madani Tonekaboni [aut],
   Victor Kofia [aut],
   Mathieu Lupien [aut],
   Benjamin Haibe-Kains [aut, cre]
 Maintainer: Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>
 Repository: CRAN
-Date/Publication: 2018-01-05 16:05:50 UTC
+Date/Publication: 2018-06-06 09:07:56 UTC
